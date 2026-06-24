@@ -1,0 +1,5 @@
+name: lazy-container
+main: dev.konjactw.kcore.lazycontainer.LazyContainer
+version: $version
+api-version: $mcVersion
+load: POSTWORLD

@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dev.konjactw.kcore.lazycontainer.mixin",
+  "mixins": [
+    "BarrelBlockEntityMixin",
+    "BaseContainerBlockEntityMixin",
+    "ChestBlockEntityMixin",
+    "ShulkerBoxBlockEntityMixin"
+  ],
+  "mixinextras": {
+    "minVersion": "0.5.0"
+  }
+}

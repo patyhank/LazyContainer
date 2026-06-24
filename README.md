@@ -1,6 +1,6 @@
 # LazyContainer Origami
 
-LazyContainer with Origami(javaagent)
+LazyContainer with Origami(javaagent) mixin
 
 ## why
 
